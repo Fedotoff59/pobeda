@@ -1,0 +1,1 @@
+php_flag eaccelerator.enable 0
